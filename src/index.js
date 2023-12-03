@@ -22,7 +22,7 @@ const jsxElem = (
 );
 console.log(jsxElem);
 
-// ReactDOM.render(element, document.querySelector("#root"));
+ReactDOM.render(jsxElem, document.querySelector("#root"));
 
 // ============================================================================================
 // import React from 'react';
